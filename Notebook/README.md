@@ -20,6 +20,6 @@ Para ejecutar el archivo `tarea_procesamiento` se necesita de los siguientes pro
 
 ## Intrucciones
 
-Primero descargue el archivo llamado `XXXXXX` y adjuntelo en la misma carpeta del notebook, despues abrir el archivo `tarea_procesamiento` para ello es necesario ya tener instalado Jupyter Notebook, instalar cualquier archivo complementario que requiera el archivo, y correr las celdas en orden descendente.
+Primero descargue el archivo llamado `breast-cancer-wisconsin.data` y adjuntelo en la misma carpeta del notebook, despues abrir el archivo `tarea_procesamiento.ipynb` para ello es necesario ya tener instalado Jupyter Notebook, instalar cualquier archivo complementario que requiera el archivo, y correr las celdas en orden descendente.
 
 
