@@ -14,10 +14,16 @@ Las variables que componen el dataset son los siguientes:
   salud mental fisica vs mental.
   - Texto libre donde se comentan o se dan ciertas pautas especificas.
 
-Para se este dataset se realizo un analisis e inspeccion para limpieza de datos, se analizo la estructura de datos, identificacion de datos faltantes e interpretacion de los datos proporcionados para ofrecer un mejor analisis.
+Para se este dataset se realizo un analisis e inspeccion para limpieza de datos, se analizo la estructura de datos, identificacion de datos faltantes e interpretacion de los datos proporcionados para ofrecer un mejor analisis. Se aplicaron las siguientes tecnicas de procesamiento en este dataset y se grafico cada tecnica antes de aplicarla y despues de aplicarla para hacer una comparacion:
 
+  - Limpieza de datos
+  - Aumento de datos
+  - Extraccion de caracteristicas
+  - Reduccion de dimensionalidad
+  - Seleccion de caracteristicas
+ 
 Para ejecutar esta practica se necesita de lo siguiente:
-  - Jupyter NoteBook
+
   - Python
   - NumPy
   - Pandas
