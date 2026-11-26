@@ -36,7 +36,7 @@ Conclusiones: qué significan los resultados, limitaciones y trabajo futuro.
 
 ## Instrucciones
 
-No es necesario descargar archivos de datos. La primera vez que se ejecuta, el notebook descarga automáticamente las dos versiones fijas de games.csv de nflverse y verifica que sean las correctas, por lo que se requiere conexión a internet. Abra el archivo prediccion_broncos_nfl.ipynb en Jupyter Notebook, instale las bibliotecas indicadas en los requisitos y ejecute las celdas en orden, de arriba hacia abajo. La ejecución completa tarda unos minutos.
+No es necesario descargar archivos de datos. La primera vez que se ejecuta, el notebook descarga automáticamente las dos versiones fijas de games.csv de nflverse y verifica que sean las correctas, por lo que se requiere conexión a internet. Abra el archivo Proyecto_Final_ICD.ipynb en Jupyter Notebook, instale las bibliotecas indicadas en los requisitos y ejecute las celdas en orden, de arriba hacia abajo. La ejecución completa tarda unos minutos.
 
 # Declaración de uso de la IA
 
